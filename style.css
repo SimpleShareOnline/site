@@ -96,6 +96,10 @@ div#userpasslogin, div#createaccount, div#newsite {
 	border: 1px solid grey;
 	margin: 8px 4px;
 }
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
 * {
 	margin: 0;
 	padding: 0;
